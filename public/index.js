@@ -23,7 +23,19 @@ var estudiantes = [
         dia: 15
       },
       carrera: "IRYC"
-    }
+    },
+    {
+      apellidop: "Borbolla",
+      apellidom: "Garces",
+      nombre: "Julio Cesar",
+      edad: 21,
+      fechanacimiento: {
+        año: 2000,
+        mes: "Agosto",
+        dia: 03
+      },
+      carrera: "IRYC"
+    },
   ]
   
   var table = document.getElementsByTagName("table")[0];
